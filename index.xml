@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Full Metal Packets </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://blog.marklap.com/index.xml/</link>
+    <link>http://marklap.github.io/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,20 +11,20 @@
     
     <item>
       <title>Getting Started</title>
-      <link>http://blog.marklap.com/post/first/</link>
+      <link>http://marklap.github.io/post/first/</link>
       <pubDate>Mon, 02 Feb 2015 21:36:04 EST</pubDate>
       
-      <guid>http://blog.marklap.com/post/first/</guid>
+      <guid>http://marklap.github.io/post/first/</guid>
       <description>&lt;p&gt;This is my first blog post on my new blog powered by &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Congrats me!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://blog.marklap.com/about/</link>
+      <link>http://marklap.github.io/about/</link>
       <pubDate>Mon, 02 Feb 2015 21:34:06 EST</pubDate>
       
-      <guid>http://blog.marklap.com/about/</guid>
+      <guid>http://marklap.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;About Me&lt;/h2&gt;
