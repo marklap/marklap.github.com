@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Full Metal Packets </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://fullmetalpackets.com/index.xml/</link>
+    <link>http://blog.fullmetalpackets.com/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,20 +11,20 @@
     
     <item>
       <title>Getting Started</title>
-      <link>http://fullmetalpackets.com/post/first/</link>
+      <link>http://blog.fullmetalpackets.com/post/first/</link>
       <pubDate>Mon, 02 Feb 2015 21:36:04 EST</pubDate>
       
-      <guid>http://fullmetalpackets.com/post/first/</guid>
+      <guid>http://blog.fullmetalpackets.com/post/first/</guid>
       <description>&lt;p&gt;This is my first blog post on my new blog powered by &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Congrats me!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://fullmetalpackets.com/about/</link>
+      <link>http://blog.fullmetalpackets.com/about/</link>
       <pubDate>Mon, 02 Feb 2015 21:34:06 EST</pubDate>
       
-      <guid>http://fullmetalpackets.com/about/</guid>
+      <guid>http://blog.fullmetalpackets.com/about/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;About Me&lt;/h2&gt;
